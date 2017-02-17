@@ -1,0 +1,5 @@
+﻿ ¤ Create a User page
+ ¤ Create a Queue page
+ ¤ Create a Music page
+ ¤ Create a Points system/page
+ ¤ Create Artificial Intelligence (FML)
